@@ -8,5 +8,4 @@
 ___  
 It's doesn't work now. Anyone help me please!!  
   
-Log File  
-https://drive.google.com/file/d/15adptjDmt7SJT9ddgm3Lqtm8sV0CquB2/view?usp=sharing
+Log Files in Logs directory that in repository. See the newest file.
