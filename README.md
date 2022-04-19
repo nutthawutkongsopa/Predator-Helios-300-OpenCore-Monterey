@@ -1,4 +1,4 @@
-# Predator Helios 300 PH315-51 (OC 0.7.9)
+# Predator Helios 300 PH315-51 (OC 0.8.0)
 ## Labtop Spec
 
 > CPU&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Intel Core i7-8750H CPU @ 2.20GHz (Coffee Lake)  
